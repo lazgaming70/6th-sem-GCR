@@ -1,0 +1,63 @@
+### INTRODUCTION TO COMMUNICATION SYSTEMS AND ANGLE MODULATION
+
+1. Overview of Communication Systems
+2. Channels and their characteristics
+3. Modulation
+4. Benefits
+5. Generation and demodulation of AM-DSBSC
+6. Generation and demodulation of SSB
+7. Generation and demodulation of VSB Signals
+8. Comparison of Amplitude Modulation Systems
+9. Frequency Translation
+10. Non-Linear Distortion
+11. Phase modulation
+12. Frequency modulation
+13. Single Tone
+14. Narrow band FM
+15. Wideband FM
+16. Transmission Bandwidth
+17. Generation of FM Signal
+18. Demodulation of FM Signal
+
+### RANDOM PROCESSES, NOISE, AND DIGITAL TRANSMISSION
+
+1. Overview of probability
+2. Random Processes
+3. Gaussian Process
+4. Shot Noise
+5. Thermal noise
+6. White noise
+7. Narrow band noise
+8. Noise Margin
+9. Noise temperature
+10. Noise Figure
+11. Pulse Modulation Schemes
+12. Pulse Amplitude Modulation (PAM)
+13. Pulse Width Modulation (PWM)
+14. Pulse Position Modulation (PPM)
+15. Pulse Code Modulation (PCM)
+16. Amplitude Shift Keying (ASK)
+17. Frequency Shift Keying (FSK)
+
+### INFORMATION THEORY & TRANSMISSION MEDIA
+
+1. Entropy
+2. Information
+3. Mutual information
+4. Shannon’s Theorem
+5. Source coding techniques
+6. Huffman coding
+7. Shannon-Fano coding
+8. Error Control Coding
+9. Hamming codes
+10. Cyclic redundancy check (CRC)
+11. Block codes
+12. Convolutional codes
+13. Forward error correction (FEC)
+14. Transmission Media
+15. Wired media
+16. Wireless media
+17. Multiplexing
+18. Time-Division Multiplexing (TDM)
+19. Frequency-Division Multiplexing (FDM)
+20. Code-Division Multiplexing (CDM)
